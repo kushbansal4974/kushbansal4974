@@ -18,8 +18,27 @@ Web Developer | Building real-world web applications | Open Source Enthusiast
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kushbansal4974&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=kushbansal4974&color=blue)
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushbansal4974&theme=tokyo-night"/>
+
+---
 
 # 🐍 Contribution Snake
-![snake gif](https://github.com/kushbansal4974/kushbansal4974/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+<img src="https://github.com/kushbansal4974/kushbansal4974/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kushbansal4974&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
