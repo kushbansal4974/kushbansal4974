@@ -21,7 +21,5 @@ Web Developer | Building real-world web applications | Open Source Enthusiast
 [![](https://visitcount.itsvg.in/api?id=kushbansal4974&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🐍 Contribution Snake
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+![snake gif](https://github.com/kushbansal4974/kushbansal4974/blob/output/github-contribution-grid-snake.svg)
 
