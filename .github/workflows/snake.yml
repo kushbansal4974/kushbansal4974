@@ -14,7 +14,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: ShubhamS2005
+          github_user_name: kushbansal4974
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
