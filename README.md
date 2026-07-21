@@ -37,7 +37,6 @@ Full-Stack MERN Developer who enjoys building scalable, user-centric web applica
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" alt="data/ml icons" />
 </p>
 
-<sub align="center">Powered by <a href="https://skillicons.dev">skillicons.dev</a> — hover-friendly, crisp SVG icons</sub>
 
 ## 📊 GitHub Stats
 
