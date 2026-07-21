@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" alt="data/ml icons" />
 </p>
 
-<sub align="center">Powered by <a href="https://skillicons.dev">skillicons.dev</a> — hover-friendly, crisp SVG icons</sub>
+<!-- <sub align="center">Powered by <a href="https://skillicons.dev">skillicons.dev</a> — hover-friendly, crisp SVG icons</sub> -->
 
 ## 📊 GitHub Stats
 
