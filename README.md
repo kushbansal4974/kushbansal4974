@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kush+Bansal+%F0%9F%91%8B;Web+Developer+%7C+Full+Stack;Building+real-world+web+applications;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kush+Bansal+%F0%9F%91%8B;Full-Stack+MERN+Developer;Building+scalable%2C+user-centric+web+apps;Open+Source+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -9,9 +9,12 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/kushbansal4974/kushbansal4974/main/assets/coding.gif" alt="coding gif" onerror="this.style.display='none'"/>
 
 ### 🚀 About Me
-- 🔭 I'm currently building real-world **web applications**
-- 🌱 Sharpening my skills in **JavaScript, React, Node.js & Python**
-- 💡 Open-source enthusiast — always happy to collaborate
+Full-Stack MERN Developer who enjoys building scalable, user-centric web applications — from REST APIs and authentication systems to responsive, production-ready UIs.
+
+- 🎓 B.Tech in Computer Science (AI & ML), Haridwar University, Roorkee — CGPA 8.2/10 (2023–2027)
+- 🛠️ Comfortable across the stack: React/Tailwind on the frontend, Node.js/Express on the backend, MongoDB for data
+- 🔐 Focus areas: REST APIs, JWT Authentication, RBAC, MVC Architecture, CRUD systems
+- 🌍 Contributed 5+ PRs during **SWOC 2026** (open-source program)
 - ⚡ Fun fact: I debug better with coffee ☕
 
 <br/>
@@ -34,7 +37,7 @@
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" alt="data/ml icons" />
 </p>
 
-<!-- <sub align="center">Powered by <a href="https://skillicons.dev">skillicons.dev</a> — hover-friendly, crisp SVG icons</sub> -->
+<sub align="center">Powered by <a href="https://skillicons.dev">skillicons.dev</a> — hover-friendly, crisp SVG icons</sub>
 
 ## 📊 GitHub Stats
 
