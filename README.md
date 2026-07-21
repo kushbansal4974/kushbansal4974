@@ -26,23 +26,15 @@
 
 ## 💻 Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,java,python,nodejs,react,tailwind,mongodb,mysql,git,github,vercel&theme=dark" alt="tech stack icons" />
 </p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" alt="data/ml icons" />
+</p>
+
+<sub align="center">Powered by <a href="https://skillicons.dev">skillicons.dev</a> — hover-friendly, crisp SVG icons</sub>
 
 ## 📊 GitHub Stats
 
@@ -52,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kushbansal4974&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <a href="https://git.io/streak-stats"><img src="https://raw.githubusercontent.com/kushbansal4974/kushbansal4974/main/profile/streak.svg" alt="streak graph" /></a>
 </div>
 
 ---
@@ -72,14 +64,6 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/kushbansal4974/kushbansal4974/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kushbansal4974&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=1" alt="trophies" />
-</div>
 
 ---
 
